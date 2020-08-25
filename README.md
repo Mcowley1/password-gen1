@@ -6,5 +6,5 @@ Password Generator with Javascript, to generate random passwords with window.pro
 
 
 ## *Link*
-[Password-gen](https://mcowley1.github.io/password-gen1/)
+[Password-gen](file:///Users/matthewcowley/Desktop/password-gen1/Develop/index.html)
 ![snapshot](password-gen.png "logo")
